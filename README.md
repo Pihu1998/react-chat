@@ -4,5 +4,5 @@ Chat application built using React.js with Socket.io library. Please find it her
 
 Features:
 1. Load the chat application.
-2. Choose your Username.
-3. Enter to the chat platform.
+2. Choose your Username and enter.
+3. Chat with your peer.
